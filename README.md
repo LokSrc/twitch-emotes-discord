@@ -4,8 +4,12 @@ Also gif emotes are supported! Requested emotes are stored to cache for future u
 fetching with streamer/uploader searches, so a [list](/app/streamers.json) of streamers/uploaders is used and updated [] while bot is running.
 
 # Usage
-Clone the repository and run docker.sh.
-After that run docker-run.sh to start the docker container.
+Clone the repository and replace 'TOKEN HERE' in .env with your bot token. 
+
+## Running with docker
+Run docker.sh and after that run docker-run.sh to start the docker container.
+
+## Commands
 
 Now you can add the bot to a server or use it in dm channels with following commands:
 
