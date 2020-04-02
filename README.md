@@ -19,6 +19,9 @@ Now you can add the bot to a server or use it in dm channels with following comm
 # Dependencies
 This project depends on:  
     Discord.Net
+    
+# Known issues/bugs
+When ran inside of docker container all editions to list of streamers is lost after container restart!
 
 # License and copyright
 
