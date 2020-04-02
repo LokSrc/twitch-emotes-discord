@@ -1,7 +1,7 @@
 # About
 This project is simple Discord message bot which fetches BetterTTV emote and sends it to the channel.
 Also gif emotes are supported! Requested emotes are stored to cache for future use. BetterTTV API offers only
-fetching with streamer/uploader searches, so a [list](/app/streamers.json) of streamers/uploaders is used and updated [] while bot is running.
+fetching with streamer/uploader searches, so a [list](/app/streamers.json) of streamers/uploaders is used and updated while bot is running.
 
 # Usage
 Clone the repository and replace 'TOKEN HERE' in .env with your bot token. 
